@@ -7,8 +7,8 @@ void main()
   int i, won; 
   
   int YourLotteryNo;  
-  printf("This is hot welcome");
-  printf("Entry your Lottery Number (0 to end): "); 
+  printf("This is cool welcome");
+  printf("Enter thou Lottery Number (0 to end): "); 
   scanf("%d", &YourLotteryNo); 
   while (YourLotteryNo != 0) 
   { 
